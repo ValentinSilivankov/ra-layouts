@@ -1,0 +1,43 @@
+{
+  "name": "ra-layouts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/2dejs87r43sk5ewl/branch/main?svg=true)](https://ci.appveyor.com/project/german-spb/layouts/branch/main)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ValentinSilivankov/ra-layouts.git"
+  },
+  "author": "LiTiN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinSilivankov/ra-layouts/issues"
+  },
+  "homepage": "https://github.com/ValentinSilivankov/ra-layouts#readme"
+}
